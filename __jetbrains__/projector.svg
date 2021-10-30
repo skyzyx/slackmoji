@@ -1,0 +1,30 @@
+<svg fill="none" height="105" viewBox="0 0 105 105" width="105" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="86.985" x2="73.076" y1="70.742" y2="30.562">
+        <stop offset=".001" stop-color="#ff318c"/>
+        <stop offset="1" stop-color="#fc801d"/>
+    </linearGradient>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="90.603" x2="78.398" y1="27.232" y2="42.732">
+        <stop offset="0" stop-color="#ff318c"/>
+        <stop offset=".781" stop-color="#fc801d"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="85.551" x2="15.507" y1="89.59" y2="64.316">
+        <stop offset=".017" stop-color="#ff318c"/>
+        <stop offset=".811" stop-color="#6b57ff"/>
+    </linearGradient>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="32.181" x2="61.97" y1="70.981" y2="18.368">
+        <stop offset=".33" stop-color="#ff318c"/>
+        <stop offset=".942" stop-color="#fdb60d"/>
+    </linearGradient>
+    <path d="m99.478 77.252 1.522-41.656-26.466-5.979-22.503 15.061 10.459 30.932 36.99 1.642z" fill="url(#a)"/>
+    <path d="m93.616 54.946 7.384-19.35-26.039-11.452-22.93 20.535z" fill="url(#b)"/>
+    <path d="m66.415 100 33.063-22.748-79.517-35.315-14.961 42.576z" fill="url(#c)"/>
+    <path d="m5 40.698 52.916 40.326 35.7-26.078-40.565-44.987-35.302-5.959z" fill="url(#d)"/>
+    <path d="m83 22h-60v60h60z" fill="#000"/>
+    <path d="m29.93 29.414h9.252c5.402 0 8.669 3.203 8.669 7.829v.064c0 5.24-4.076 7.959-9.155 7.959h-3.785v6.793h-4.981zm8.928 11.42c2.49 0 3.947-1.489 3.947-3.43v-.064c0-2.233-1.553-3.43-4.044-3.43h-3.85v6.924z"
+          fill="#fff"/>
+    <path d="m45.065 48.985 3.138-3.493c1.294 1.423 2.555 2.264 4.14 2.264 1.876 0 3.04-1.132 3.04-3.752v-14.59h5.112v14.816c0 2.685-.776 4.69-2.135 6.05a8.09 8.09 0 0 1 -5.887 2.102 9.259 9.259 0 0 1 -7.408-3.397z"
+          fill="#fff"/>
+    <path d="m53 70.75h-22.5v3.75h22.5z" fill="#fff"/>
+
+</svg>
